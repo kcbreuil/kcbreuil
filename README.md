@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**kcbreuil/kcbreuil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a UI for a simple music API 
 - 🌱 I’m currently learning Gatsbyjs + GraphQL
 - 👯 I’m looking to collaborate on anything! Shoot me an email :D 
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kaitlynbreuil@gmail.com 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I have an instagram that documents people crying during movies (it's mostly me) @miss.tearz 
--->
