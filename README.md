@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m working on Gatsby builds with Backroom.
+- 🔭 I’m working on Gatsby builds with Backroom and design systems with SuperFriendly! 
 - 🌱 Itching to learn VueJs!  
 - 👯 I’m looking to collaborate on full-stack applications, preferably where I can work on the backend. 
 - 🤔 I’m looking for help with becoming an expert on React. 
