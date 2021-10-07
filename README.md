@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m working on Gatsby builds with Backroom and design systems with SuperFriendly! 
+- 🔭 I’m working on the frontend for herd social 🐑 
 - 🌱 Itching to learn VueJs!  
 - 🤔 I’m looking for help with becoming an expert on React. 
 - 💬 Ask me about my two cats and chihuahua.
